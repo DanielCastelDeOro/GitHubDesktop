@@ -8,6 +8,7 @@ namespace GitHubDesktop
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hey");
+            Console.WriteLine("this was afer the merge to GHdesktop");
         }
     }
 }
